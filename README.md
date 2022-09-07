@@ -1,3 +1,1 @@
-# ExoMongoDB
-
 Entrainement à MongoDB
